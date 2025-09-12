@@ -66,13 +66,13 @@ namespace HW1b_Grade
             Console.WriteLine("What is your overall percentage grade for participation?");
             PartiAsString = Console.ReadLine();
 
-            Console.WriteLine("What is your overall percentage grade for exam 1?");
+            Console.WriteLine("What is your overall percentage grade for Exam 1?");
             e1AsString = Console.ReadLine();
 
-            Console.WriteLine("What is your overall percentage grade for exam 2?");
+            Console.WriteLine("What is your overall percentage grade for Exam 2?");
             e2AsString = Console.ReadLine();
 
-            Console.WriteLine("What is your overall percentage grade for exam 3?");
+            Console.WriteLine("What is your overall percentage grade for Exam 3?");
             e3AsString = Console.ReadLine();
 
             HWork = Convert.ToDouble(HWorkAsString);
